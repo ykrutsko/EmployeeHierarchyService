@@ -119,5 +119,5 @@ In a real environment, this could be optimized using a recursive CTE query to fe
 
 **Yurii Krutsko**  
 .NET Developer  
-yuri.krutsko@gmail.com 
+yuri.krutsko@gmail.com  
 https://www.linkedin.com/in/yurii-krutsko/
